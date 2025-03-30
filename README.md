@@ -1,6 +1,8 @@
-# Angular-Supabase-Starter
-Angular v19.x Supabase Starter Project with Authentication Guards
+# Angular Supabase Starter
+Angular v19.x Supabase Starter Project with Authentication Guard.
+
 How to setup:
+
 - git clone
 - npm install
 - update your Supabase credentials inside (environment.ts)
